@@ -1,0 +1,8 @@
+Direccion ( calle, número, código postal, localidad, provincia )
+Persona ( dni, nombre, edad, estado )
+Empleados ( sueldo, categoria, departamento, direccion ) [ devolver salario ]
+Departamentos ( nombre, identificador, localizacion, empresa, empleados )
+
+Empresas ( nombre, cif, departamentos, direccion, contratos:
+[fecha creacion, datos empresa, datos empleado] )
+
