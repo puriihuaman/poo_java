@@ -5,54 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19543a3e-f74b-4f0e-992b-be8a23fad9c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/Carnivoro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/Herbivoro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/Planta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/SerVivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EJECICIO.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method/Cuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method/Cubo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method/GatoSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method/Sexo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MiembrosEstaticos/Estatico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MiembrosEstaticos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejerciciopoo/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejerciciopoo/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejerciciopoo/Contract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejerciciopoo/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejerciciopoo/Ejercicio.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejerciciopoo/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejerciciopoo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejerciciopoo/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulamiento/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulamiento/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/Exercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/Exercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/Exercise03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/Exercise04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/Consultant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/Herencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herencia/Van.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logic/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Consultant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/Polimorfismo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/Cuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Cuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/IDibujable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/IFigura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/IRotable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/Exercise05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercises/Exercise06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logic/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Abstract/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstract/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -83,22 +50,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/workspace/backend/POO_java/src/polimorfismo&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/workspace/backend/POO_java/src/polimorfismo",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\workspace\backend\POO_java\src\polimorfismo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="POO_java" />

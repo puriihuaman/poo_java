@@ -187,9 +187,16 @@ Una clase abstracta se caracteriza por que no va a poder ser instanciada o no de
 
 Estas clases solo se pueden heredar, funcionan como clase padre ( superclase ).
 
-En una clase abstracta se definen los métodos abstractos, solo se definen no se implementan.
+En una clase abstracta se definen los métodos abstractos, solo se definen, NO se implementan.
 
-Para que una clase se abstracta, basta que un método se abstracto para que está tambíen se vuelva en abstracta.
+Para que una clase se abstracta, basta que uno de sus métodos sea abstracto para que está tambíen se vuelva en
+abstracta.
+
+Sus niveles de visualización deben ser public o protected ( nunca private ).
+
+Generalmente las clases abstractas indican el "SER/ES" de un objeto.
+
+Una clase abstracta no puede heredar de varias clases abstractas al mismo tiempo.
 
 ## Constante
 
@@ -206,6 +213,23 @@ public class Persona {
     private final String nombre;
 }
 ```
+
+## Interfaces
+
+Las interfaces se encargan de especificar un comportamiento que luego tendrá que ser implementado, es como un
+contrato que se debe cumplir.
+
+Las interfaces NO especifican el "CÓMO" se debe hacer, sino solo el "QUÉ" se debe/puede hacer, ya que solo contiene la 
+definición de los métodos y constantes, estos solo pueden ser publicos.
+
+Contiene una serie de métodos abstractos, tambien pueden tener constantes.
+
+Una interface solo puede extender e implementar otras interfaces (la cantidad no importa).
+
+No es obligatorio la palabra clave "abstract" en la definición de los métodos o constantes.
+
+
+
 
 
 
